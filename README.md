@@ -35,23 +35,23 @@ Repository :
 
     Sign up
       Create an Account
-         -Check ID
-         -Check Nickname
-         -Check PW 
+ -     Check ID
+ -     Check Nickname
+ -     Check PW 
       Log in
-         - JWT token
+ -     JWT token
 
       Log out 
 
-      Write a post 
-      Check Detail of post  
-      Delte/ Edit the post 
+ -     Write a post 
+ -     Check Detail of post  
+ -     Delte/ Edit the post 
 
-      Participate in the study post(group)
-      Cancel the participation
+ -    Participate in the study post(group)
+ -    Cancel the participation
       
-      Leave Comment 
-      Delte/Edit the comment
+ -     Leave Comment 
+ -     Delte/Edit the comment
  
  
 4. Skills
